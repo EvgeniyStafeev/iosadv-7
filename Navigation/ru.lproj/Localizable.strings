@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Navigation
+
+ Created by Евгений Стафеев on 27.04.2023.
+
+*/
+
+// TabBar Navigation
+"tabBar1Title" = "Лента";
+"tabBar3Title" = "Профиль";
+"tabBar4Title" = "Избранное";
+"tabBar5Title" = "Карта";
+
+// Feed screen
+"btn1Title" = " Моя кастомная кнопка 1 ";
+"btn2Title" = " Моя кастомная кнопка 2 ";
+"inputPasswordPlaceholder" = "Установить ваш пароль...";
+"btn3Title" = " Проверить ";
+"btn4Title" = " Результат ";
+"resultTrue" = " Верно ";
+"resultFalse" = " Не верно ";
